@@ -12,7 +12,7 @@ The pyMOR School will take place from Monday at 9:00 to Friday at 12:00
 (first floor of the IDea_Lab, University of Graz, Leechgasse 34, 8010 Graz, Austria).
 
 The timetable is available at
-[Indico](https://indico3.mpi-magdeburg.mpg.de/event/51/timetable/#all).
+[Indico](https://indico3.mpi-magdeburg.mpg.de/event/67/timetable/#all).
 
 # Materials
 
