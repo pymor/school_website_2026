@@ -31,6 +31,10 @@ help of the pyMOR developers.
 Of course, existing users and previous School participants are also invited to
 join us for the whole week of pyMOR School.
 
+## Registration
+
+Please register [here](https://indico3.mpi-magdeburg.mpg.de/event/67/) until August 14, 2026.
+
 ## Organizers
 
 The pyMOR School 2026 is organized by:
