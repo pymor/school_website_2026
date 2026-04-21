@@ -9,11 +9,11 @@
 
 pyMOR School is an annual event for future and current pyMOR users and
 developers.
-The eigth iteration of pyMOR School will take place in Graz, Austria, from
+The 8th iteration of pyMOR School will take place in Graz, Austria, from
 Monday morning, September 14 to Friday noon, September 18.
-Experienced users of pyMOR and related software packages are especially invited
-to join us for the integrated user meeting sessions.
-A code sprint will take place on Thursday evening.
+Experienced users of pyMOR and related software packages are also invited
+to join us for the school, share their experience in the user talks session
+and work together with the developers, in particular during our code sprint on Thursday evening.
 
 The School will offer interactive introductory lectures on some of the most
 important MOR methods and how to use these methods with pyMOR.
