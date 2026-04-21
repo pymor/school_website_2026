@@ -91,7 +91,7 @@ scientific discipline.
 Yet, the use of such models is often limited by the available computational
 resources.
 
-Over the last decade, a variety of algorithms have been developed which compute,
+Over the last decades, a variety of algorithms have been developed which compute,
 for a given numerical ODE/PDE model, a mathematically certified surrogate that
 can be simulated in a small fraction of the time required for the solution of
 the original model.
