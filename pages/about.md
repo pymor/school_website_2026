@@ -34,6 +34,7 @@ join us for the whole week of pyMOR School.
 ## Registration
 
 Please register [here](https://indico3.mpi-magdeburg.mpg.de/event/67/) until August 14, 2026.
+Registration for the school is free of charge. Participants need to take care of accommodation and travel.
 
 ## Organizers
 
