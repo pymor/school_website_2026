@@ -24,7 +24,7 @@ If you feel that the Code of Conduct has been violated,
 you can contact one of the [organizers](/about).
 If you would prefer not to report to the organizers,
 please feel free to submit a report by using the
-[NumFOCUS Code of Conduct Reporting Form](https://numfocus.typeform.com/to/ynjGdT?typeform-source=numfocus.org).
+[NumFOCUS Code of Conduct Reporting Form](https://forms.monday.com/forms/f130e8cddb99568fa86cf077b8912a60?r=use1).
 Your report will be received and handled by the NumFOCUS Code of Conduct Working
 Group; trained, and experienced contributors with diverse backgrounds.
 The group is making decisions independently from the project, PyData, NumFOCUS
