@@ -61,6 +61,7 @@ width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ref
 You are responsible for booking and paying for your own accommodation.
 
 Some possible hotels in walking distance to IDea_Lab:
+
 - [Limehome Graz Trauttmansdorffgasse](https://maps.app.goo.gl/Wd2bCXL1Ahqd9Faa6)
 - [Gästehaus Mosshammer](https://maps.app.goo.gl/F9BYGTdgs4hGmqbcA)
 - [Hotel Villa Rückert](https://maps.app.goo.gl/9zg66HPdvQVvHhq59)
